@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1524653501 source:c:\users\asus\desktop\demineurs\main.cpp
+	"Board.h"
+	<bits/stdc++.h>
+	<windows.h>
+
+1524653665 source:c:\users\asus\desktop\demineurs\src\board.cpp
+	"Board.h"
+	"time.h"
+	<windows.h>
+	<iostream>
+	<string>
+	"Boomb.h"
+	"Reference.h"
+	"Case.h"
+	"White.h"
+	<stdio.h>
+	<bits/stdc++.h>
+
+1524648043 c:\users\asus\desktop\demineurs\include\board.h
+	"Case.h"
+
+1524565887 c:\users\asus\desktop\demineurs\include\case.h
+	<string>
+
+1524478217 c:\users\asus\desktop\demineurs\include\boomb.h
+	"Case.h"
+
+1524478361 source:c:\users\asus\desktop\demineurs\src\boomb.cpp
+	"Boomb.h"
+	<string>
+
+1524571150 source:c:\users\asus\desktop\demineurs\src\case.cpp
+	"Case.h"
+	<string>
+
+1524486345 source:c:\users\asus\desktop\demineurs\src\reference.cpp
+	"Reference.h"
+	"Case.h"
+	<string>
+
+1524486024 c:\users\asus\desktop\demineurs\include\reference.h
+	"Case.h"
+
+1524615095 source:c:\users\asus\desktop\demineurs\src\white.cpp
+	"White.h"
+	"Case.h"
+	<string>
+
+1524478496 c:\users\asus\desktop\demineurs\include\white.h
+	"Case.h"
+	<string>
+

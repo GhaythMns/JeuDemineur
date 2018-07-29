@@ -1,0 +1,2 @@
+player : wassim score : 160
+player : GHAYTH score : 40

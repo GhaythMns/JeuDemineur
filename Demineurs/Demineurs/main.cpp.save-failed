@@ -1,0 +1,23 @@
+#include <iostream>
+#include"Board.h"
+#include<stdlib.h>
+
+using namespace std;
+
+int main()
+{
+    Board b = Board(10,10,5);
+    b.initialiser();
+    b.placerBoomb();
+    b.placerReference();
+    b.afficher();
+
+    int l , c ;
+
+    cout <<"creuser : ";
+    cin >> l >> c;
+
+    creuser(l-1,c-1);
+    system("cls");
+    b.afficher();
+}
